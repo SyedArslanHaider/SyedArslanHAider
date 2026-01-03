@@ -21,7 +21,7 @@ Currently seeking my **first professional role as a developer** and excited to k
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArslanHaider&layout=compact&theme=radical)](https://github.com/LauraGDev)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedArslanHaider&layout=compact&theme=radical)](https://github.com/SyedArslanHaider)
 
 ---
 ## 🌐 Connect With Me:
